@@ -1,0 +1,25 @@
+﻿{"employees" : [
+	  {
+		 "food_id" : 1, 
+		"food_name" : "foodname 1", 
+		"food_desc" : "fooddesc 1", 
+		"food_preTime" : "qwerty ",
+		"food_type" : "qwerty ",
+	 },
+	{
+		 "food_id" : 2, 
+		"food_name" : "foodname 2", 
+		"food_desc" : "fooddesc2", 
+		"food_preTime" : "qwerty ",
+		"food_type" : "qwerty ",
+	 },
+	{
+		 "food_id" : 3, 
+		"food_name" : "foodname 3", 
+		"food_desc" : "fooddesc3", 
+		"food_preTime" : "qwerty ",
+		"food_type" : "qwerty ",
+	 },
+
+
+]}
